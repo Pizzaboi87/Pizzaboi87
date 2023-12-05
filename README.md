@@ -1,6 +1,6 @@
 ﻿### 💫 About Me:
 
-🗺️ I am a Web Developer from Hungary.<br>🚀 Currently I'm learning Unity and C#<br>💻 My main interest is front-end, especially React.<br>🎲 I like board games, comic books and model building.<br>🐈🐈🐈🐈🐈 I have five cats :)
+🗺️ I am a Web Developer from Hungary.<br>🎓 I study at the University of Szeged.<br>💻 My main interest is front-end, especially React.<br>🎲 I like board games, comic books and model building.<br>🐈🐈🐈🐈🐈 I have five cats :)
 
 ### 🌐 Socials:
 
