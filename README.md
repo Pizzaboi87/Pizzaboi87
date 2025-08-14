@@ -15,6 +15,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pizzaboi87&theme=solarized-light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pizzaboi87&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 👽 Visitors:
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpizzaboi87&labelColor=%23697689&countColor=%23fff4e4&style=plastic&labelStyle=lower)
